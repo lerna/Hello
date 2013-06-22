@@ -2,4 +2,7 @@ Hello
 =====
 
 Initial
-License GPLv3
+
+Copyright and License
+=====
+Licensed under the GPLv3
